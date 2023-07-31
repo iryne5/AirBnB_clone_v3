@@ -159,6 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 
 Bamidele Adefolaju - [Github](https://github.com/lexxya) / [Twitter](https://twitter.com/lexxyla)
 Jamiu Ismail - [Github](https://github.com/phantware) 
+Irene Kamau - [Github (https://github.com/iryne5).
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copyright protection. 
